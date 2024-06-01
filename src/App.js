@@ -19,7 +19,22 @@ function App() {
             >
               Aqiyla McLean
             </a>{" "}
-            and is open-sourced on GitHub and hosted on Netlify.
+            on{" "}
+            <a
+              href="https://github.com/aqiyla/weather-app-react-hw"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://spiffy-gumdrop-5d0553.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify.{" "}
+            </a>
           </p>
         </div>
       </header>
